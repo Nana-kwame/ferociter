@@ -1,0 +1,8 @@
+.heroText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: flex-start;
+  width: 100%;
+  margin: 0 3rem;
+}
