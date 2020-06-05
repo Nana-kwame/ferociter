@@ -12576,6 +12576,15 @@ textarea.form-control {
   stroke-linecap: round;
 }
 
+/* CUSTOM CAREER IMAGE */
+.custom__career--image {
+  background-image: url("./../images/career_woman.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: translate(22%, -21%);
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
